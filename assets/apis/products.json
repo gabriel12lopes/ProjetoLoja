@@ -29,8 +29,8 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Vestido com drapeado na gola Azul claro, corset franzido, sem mangas, acinturado e saia com pregas.",
         "price": 175.5,
-        "image": "./assets/images/SAIA1.PNG",
-        "image2": "./assets/images/SAIA2.PNG",
+        "image": "./assets/images/saia.png",
+        "image2": "./assets/images/saia2.png",
         "isNew": true,
         "isTrending": false,
         "category": "women"
