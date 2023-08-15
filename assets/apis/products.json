@@ -5,8 +5,8 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
         "price": 159,
-        "image": "./assets/images/novidade/NORTHFACE1.JPG",
-        "image2": "./assets/images/novidade/NORTHFACE2.JPG",
+        "image": "./assets/images/novidade/NORTHFACE1.jpg",
+        "image2": "./assets/images/novidade/NORTHFACE2.jpg",
         "isNew": true,
         "isTrending": false,
         "category": "men"
@@ -147,8 +147,8 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
         "price": 1499.99,
-        "image": "./assets/images/novidade/gucci1.jpg",
-        "image2": "./assets/images/novidade/gucci2.WEBP",
+        "image": "./assets/images/novidade/GUCCI1.jpg",
+        "image2": "./assets/images/novidade/GUCCI2.webp",
         "isNew": true,
         "isTrending": false,
         "category": "women"
