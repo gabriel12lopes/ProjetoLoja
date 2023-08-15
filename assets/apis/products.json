@@ -29,8 +29,8 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Vestido com drapeado na gola Azul claro, corset franzido, sem mangas, acinturado e saia com pregas.",
         "price": 175.5,
-        "image": "./assets/images/SAINTLAURENT1.webp",
-        "image2": "./assets/images/SAINTLAURENT2.webp",
+        "image": "./assets/images/saia.png",
+        "image2": "./assets/images/saia2.png",
         "isNew": true,
         "isTrending": false,
         "category": "women"
@@ -131,7 +131,7 @@
     },
     {
         "id": 12,
-        "title": "Philipp Plein xxx",
+        "title": "Saint Laurent",
         "trendTitle": "Vestido com tachas preto Philipp Plein.",
         "description": "As melhores coleções femininas você encontra aqui!",
         "price": 499.99,
