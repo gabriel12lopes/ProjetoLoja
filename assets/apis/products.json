@@ -132,11 +132,11 @@
     {
         "id": 12,
         "title": "Saint Laurent",
-        "trendTitle": "Vestido com tachas preto Philipp Plein.",
+        "trendTitle": "Vestido com tachas preto da Saint Laurent.",
         "description": "As melhores coleções femininas você encontra aqui!",
         "price": 499.99,
-        "image": "./assets/images/novidade/saintlaurent1.webp",
-        "image2": "./assets/images/novidade/saintlaurent2.webp",
+        "image": "./assets/images/novidade/SAINTLAURENT1.webp",
+        "image2": "./assets/images/novidade/SAINTLAURENT2.webp",
         "isNew": true,
         "isTrending": true,
         "category": "women"
