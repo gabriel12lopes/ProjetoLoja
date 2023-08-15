@@ -135,8 +135,8 @@
         "trendTitle": "Vestido com tachas preto Philipp Plein.",
         "description": "As melhores coleções femininas você encontra aqui!",
         "price": 499.99,
-        "image": "./assets/images/novidade/SAINTLAURENT1.WEBP",
-        "image2": "./assets/images/novidade/SAINTLAURENT2.WEBP",
+        "image": "./assets/images/novidade/saintlaurent1.webp",
+        "image2": "./assets/images/novidade/saintlaurent2.webp",
         "isNew": true,
         "isTrending": true,
         "category": "women"
